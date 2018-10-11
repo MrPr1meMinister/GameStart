@@ -1,0 +1,56 @@
+October 11th, 2018
+David Langen
+
+
+1. 
+
+The concept of my the game would start simple and evolve throughout on a third-person linear travel through the streets of New York. the overwhelming talk and political views are put in motion in this game called Political Minds.
+It involves the Donald Trump conundrum and his organization. As there is a pretty wide-ranged dislike for his policies, the game would start with one of his lower selections for office (of course the names and certain attributes would be changed for lincencing purposes).
+You would start at the bottom of a building, shorter to start with, with one of the underminds of the Trump organization and race to the top, with a time score, and money score, as you collect cash as it falls out of their pockets as they climb. They'd also throw objects at you, such as cake and vote slips at you on the way. Windows would also be opened on your way up, along with other characters and obstacles. The money you collect as you climb could be used to climb faster, or saved throughout the game to achieve high scores along with your time score.
+You would advance through office, until you've reached Pence and then Trump as the final boss, who'd be larger, more aggressive and quick with his words, quotes. the diffuculty of the final stage would be significantly harder than the beginning. At the top of the buildings you will reach a voting booth,, where you'd disappear behind a curtain (to demonstrate the privacy in real life).
+Throughout the game you will be allowed to use money earned to buy new shoes, gloves etc to climb faster, but would also diminish your total if you were looking to compete for high scores. In the end no money would be essential to spend, but without doing so, the game would be very difficult to complete.
+
+The non-linear version would be the same Political concept, accept you'd be moving through the buildings, 
+with different paths, secret doors and such to avoid all security, politicians, lawyers,
+and whomever else to reach the Oval office. Through this you could also collect money,
+other items to increase your foot speed, lightness on your feet, gloves to hide your fingerprints etc. 
+If you leave behind a trail, there will be security hot on your tail, so watch out to not run into furniture, 
+slam doors, or leave fingerprints etc. Once you've reached Trump without being caught, again timed and calculations
+of money earned, you will have the oppurtunity of becoming the next Apprentice, or paying him off to leave office.
+Again all names would be changed in a manner that it could be released without bias, 
+which with this game of course, would be the trickiest obstacle to overcome. Or we could simply put it to a vote.
+
+2. All rudementory core mechanics have been included in the storyline. I believe that the User Interface
+will be excited to climb, or find victory against whom most, but not all think is a bit of a mistake in the polls.
+It would also give them an old school feel (ie. Donkey Kong), along with a sense of satisfaction in the end.
+The linear version would be playform based, with the inclusion of online accessibility for stat comparison worldwide.  
+The non-linear, would be a Role-Playing game with the same onlince statitics available to the player. 
+
+3. The enteties would be obvious, money dropped, cake thrown etc. Falling from the building due to lost life would be a drain, along
+with the money disappearing once gathered, cake once absorbed (to slow you down) etc. Converters would be cllecting
+enough money to put in a bag which you could use to whap you enemy and slow him down. Once you've concumed too many slices of cake
+you would see that you've eaten a full cake and would fall. With regards to the core mechanics, lets say if you get to the top of a building
+without consuming a slice of cake, you would earn trade shares that you could pick up at the top and convert into bags of money.
+To strategize an efficient win in this game, to compete with other potentially overwhelming times and earned moneys would\
+be to avoid hits and use minimal money to speed your way up the buldings to get to the trade shares. At this point
+you could avoid spending more money, just avoid getting hit. 
+
+The reason why i would design a building and climbing type game is to bring people back to the Old School, but 
+understand also that simple games can be elevated to keep you entertained and focused on scores and times.
+
+
+5 Games in Short
+
+Political Climb - as discussed
+Rights and Reason - a human rights trivial game, that would involve the user making dicisions through question and answer.
+Volleball - I have yet to come accross an updated Volleball game. it would use the same time of power meters for shot precision and speed.
+The Addiction - A learning based platform game that has you excel through levels while learning keys points about addiction and addictive behaviors.
+Swat - A third person game where you move through the forrest avoiding bugs, lizards snakes etc. with the chance to upgrade items on the way to make your attempt for survival more efficient. 
+
+
+
+
+
+
+ 
+
