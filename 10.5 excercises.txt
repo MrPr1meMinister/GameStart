@@ -1,0 +1,39 @@
+David Langen
+
+1. 
+
+a) This is a high risk situation. I would think that the developer would need to implement of team of researchers to 
+go over this new OS system and how they could implement it to their game withough wasting time. Potentially the beginning
+could be a more simple design, but as the new OS system has been put into place, they could enhance elements of the game
+that would provide the user with new looks and allow the game to maintain interest as the game reduces repetition and 
+as it enhance itself throughout developmentally. This would avoid having to turn back to the beginning and restarting the
+process.
+
+b) I'd think that this would be low-risk (unless you had the best of the best), as you would need to quickly replace new graphics 
+artist and get him to cooberate the rest of the game with the initial 2 months. If the game was high budget with an excessive
+timeline, the team could simply restart as a second option.
+
+c) I would believe this to be high-risk concidering the importance of the game, I'd guess that they'd have hired an inadequate 
+group of programmers, who'd have been satisfied with the product before running open and closed beta tests. The programmers
+it would seem were in it for the money rather than the satisfaction of distributing a solid project. Unless of course there were
+extennuating circumstances. 
+
+
+David Langen, Dylan R
+
+2. Donkey Kong Post-Mortem
+
+
+What went right; Exceeded expectations; the enovironment, graphics ahead of its time, solid enemy base, bosses that allow the
+user to remain interest etc.. There are also bonus options as in spelling out K-O-N-G in each level where
+some of the letters may be hidden in difficult precarious areas, and collecting which also increases the difficulty level of the game.  
+ 
+What went wrong; The competitive level of the game became repetitious so the user, once acclamated with the simple controls of
+the game, you get the sense that completing it to the end is innevitable. 
+
+What can be improved upon; Wider range of characters. Concentrate on more powerups. The difficulty of the levels could be enhanced (eg
+the length of the level, improvisation, mid-level bosses, more underwater areas with oxygen timers etc..)  
+
+
+The team management, concept and development coming together to discuss their final product, future projects and combatibility of
+the overall team's effort.
